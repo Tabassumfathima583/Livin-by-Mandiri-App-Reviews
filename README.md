@@ -32,6 +32,30 @@ This project analyzes user reviews of the **Livin’ by Mandiri** mobile banking
 - **Language Translation:** Google Translate API (manual checks for key insights)
 
 ---
+##  Project Overview
+
+Below is a visual summary of the sentiment analysis and insights derived from the *Livin’ by Mandiri* app reviews:
+
+![Sentiment Analysis of Livin' by Mandiri App Reviews](SENTIMENTAL%20ANALYSIS%20BY%20MANDIRI%20APP%20REVIEWS.png)
+
+> *Figure: Summary poster showing methodology, key visuals (rating trends, word cloud, distribution), insights, and tools used.*
+
+---
+
+## How to View the Poster
+
+If you’re browsing this repository on GitHub, the image above will render directly in the README.  
+To download or open the full-resolution poster separately:
+
+1. **From GitHub:**  
+   Click on the image to open it in full size, then click the “Download” button.
+
+2. **Clone the Repository:**  
+   ```bash
+   git clone https://github.com/Tabassumfathima583/Livin-by-Mandiri-App-Reviews.git
+   cd Livin-by-Mandiri-App-Reviews
+   open "SENTIMENTAL ANALYSIS BY MANDIRI APP REVIEWS.png"
+
 
 ## 📊 Visualizations Included
 
