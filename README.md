@@ -85,12 +85,6 @@ The *Livin’ by Mandiri* app is generally well-received. However, performance i
   [Zenodo](https://zenodo.org/records/15559669),  
   [KINETIK Journal](https://kinetik.umm.ac.id/index.php/kinetik/article/view/2248)
 
----
 
-## 📌 Author
-
-- 👤 TABASSUM FATHIMA
-- 
-
-This project is for educational and non-commercial use only. Please credit original data sources when sharing or reusing.
+  
 
